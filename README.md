@@ -10,5 +10,4 @@
 [![Gmail Badge](https://img.shields.io/badge/trott.alik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trott.alik@gmail.com)](mailto:trott.alik@gmail.com)
 
 ##### My contribution statistic:
-[![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=vault-developer&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-
+![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=vault-developer&show_icons=true&theme=tokyonight&hide=stars)]
