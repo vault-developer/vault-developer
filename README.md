@@ -8,3 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/albert_trott-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/albert-trott/ "Connect on LinkedIn")
 [![Telegram Badge](https://img.shields.io/badge/vault_developer-gray?style=flat-square&logo=telegram&logoColor=white)](https://t.me/vault_developer)
 [![Gmail Badge](https://img.shields.io/badge/trott.alik@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:trott.alik@gmail.com)](mailto:trott.alik@gmail.com)
+
+##### My contribution statistic:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vault-developer&show_icons=true&theme=tokyonight&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+
