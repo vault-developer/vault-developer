@@ -1,5 +1,5 @@
 ## Hey, I'm Albert.
-- 🖥️ I'm a software engineer passionate about developing web and native applications;
+- 🖥️ I'm a fullstack software engineer passionate about developing web and native applications;
 - 🏢 I'm currently working at [Moonfare](https://github.com/moonfare) where we are democratising private equity for everyone;
 - ⚖️ Adept at balancing hands-on development with technical leadership responsibilities;
 
