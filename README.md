@@ -6,7 +6,8 @@
 #### My tech stack:
 ![My Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,aws,nestjs,nextjs,python)  
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vault-developer&layout=compact&theme=tokyonight)
+<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vault-developer&layout=compact&theme=tokyonight) -->
+[![](https://leetcard.jacoblin.cool/vault-developer?ext=heatmap)](https://leetcode.com/u/vault-developer/)
 
 #### Message me:
 [![Linkedin Badge](https://img.shields.io/badge/albert_trott-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/albert-trott/ "Connect on LinkedIn")
